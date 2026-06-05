@@ -165,3 +165,8 @@ public class DemoApplication {
         SpringApplication.run(DemoApplication.class, args);
     }
 }
+## output:
+<img width="1459" height="680" alt="image" src="https://github.com/user-attachments/assets/42524d9f-4b89-4b7b-a8ba-45aef30d5cd8" />
+## result:
+A spring Boot application that performs CRUD (Create, Read, Update, Delete) operations on a Student entity using Spring Data JPA (Hibernate) is developed successfully.
+
